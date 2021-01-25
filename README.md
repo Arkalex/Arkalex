@@ -1,12 +1,7 @@
 ## Hello there! I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-First of all, I'm still working on this <b>Readme</b>, so be patient! <img align="center" src="https://media.giphy.com/media/Fo8avUd7FdmfhMXl2v/giphy.gif" width="400" alt="construction gif" />
 
-
-JavaScript as a mood 🥰
-
-
-- 🔭 I’m currently working on Le Creuset
+- 🔭 I’m currently working at Le Creuset
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in Open Source projects!
 - 🏠 I'm currently working from home
@@ -33,16 +28,6 @@ const alex = {
     funFact: "If there are no errors in your code, maybe the code is the error"
 };
 ```
-
-### This is my stack:
-<img alt="javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img alt="typescript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img alt="react" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img alt="html" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img alt="css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img alt="vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-
 
 
 ### If you like what I do, maybe consider [buying me a coffee][paypalme]
