@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Le Creuset
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in Open Source projects!
-- 🏠 I'm currently working from home
+- 🏠 I'm working from home
 - <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/512px-Pok%C3%A9_Ball_icon.svg.png"/> Pokemon Master since I was 8 
 - 📄 Take a look at my [resume][resume]
 
